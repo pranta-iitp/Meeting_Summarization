@@ -1,4 +1,4 @@
-MEETING SUMMARY
+text = '''MEETING SUMMARY
 Abstractive Summarization Model
 • Group Number: 48
 • Group Members:
@@ -61,4 +61,4 @@ Contributions and suggestions are warmly welcomed. Feel free to open issues or p
 • Model Author: Shivam Kumar, Pranta Pratim Roy, Sougata Dolai
 • Hugging Face Page: MEETING SUMMARY
 Group Information:
-2
+2'''
